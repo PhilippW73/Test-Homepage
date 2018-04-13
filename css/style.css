@@ -19,6 +19,10 @@ main {
   transition: transform .7s ease-in-out;
 }
 
+a {
+  color: red;
+}
+
 .sidebar {
   height: 100%;
   width: 400px;
@@ -314,5 +318,9 @@ p {
 }
 
 footer.page-footer {
+  margin: 0;
+  background-color: red;
+}
+#contactfooter {
   margin: 0;
 }
