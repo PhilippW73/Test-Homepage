@@ -243,16 +243,18 @@ a {
 
 .parallaxtitle {
     /* The image used */
-    background-image: url("../ChrisBlackAndWhite.jpg");
+    background-image: url("../testchris.jpeg");
+    width: 100%;
+    height: 50%;
 
     /* Set a specific height */
-    min-height: 100px; 
+    min-height: 50px; 
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+   /* background-size: cover;*/
 }
 
 
