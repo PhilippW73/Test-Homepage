@@ -239,6 +239,26 @@ a {
   transition: all 1s ease;
 }
 
+
+
+.parallaxtitle {
+    /* The image used */
+    background-image: url("../ChrisBlackAndWhite.jpg");
+
+    /* Set a specific height */
+    min-height: 100px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
 @media (min-width: 480px) {
   .nav-list {
     display: block;
