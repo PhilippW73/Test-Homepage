@@ -2946,7 +2946,7 @@ ul.staggered-list li {
 .page-footer {
   padding-top: 20px;
   color: #fff;
-  background-color: #ee6e73;
+  background-color: red;
 }
 
 .page-footer .footer-copyright {
@@ -4269,13 +4269,13 @@ table span.badge {
   }
 }
 
-/*nav {
-  color: #fff;
-  background-color: #ee6e73;
+nav {
+  color: black;
+  background-color: transparent;
   width: 100%;
   height: 56px;
   line-height: 56px;
-}*/
+}
 
 nav.nav-extended {
   height: auto;
